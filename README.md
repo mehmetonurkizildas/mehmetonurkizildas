@@ -3,6 +3,18 @@
 <h1 align="center">Hi 👋, I'm Mehmet Onur Kızıldaş</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
+![CSharp](https://img.shields.io/badge/-CSharp-6b1678?style=flat-square&logo=csharp)
+![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft-sql-server)
+![DotNet](https://img.shields.io/badge/-.Net-6b1678?style=flat-square&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/-JQuery-yellow?style=flat-square&logo=jquery)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 - 💬 Ask me about **.net core , angular , sql**
 
 - 📫How to reach me **mehmetonur75@gmail.com**
@@ -12,7 +24,8 @@
 <a href="https://linkedin.com/in/mehmetonurkizildas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetonurkizildas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15322720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15322720" height="30" width="40" /></a>
 <a href="https://instagram.com/ogdy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogdy1" height="30" width="40" /></a>
-<a href="https://medium.com/h@mehmetonur75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="h@mehmetonur75" height="30" width="40" /></a>
+<a href="https://medium.com/@mehmetonur75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetonur75" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mehmetonurkzldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehmetonurkzldas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetonurkizildas&show_icons=true&locale=en" alt="mehmetonurkizildas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetonurkizildas&" alt="mehmetonurkizildas" /></p>
+
 
 
