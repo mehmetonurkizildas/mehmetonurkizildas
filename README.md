@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wearedotnet.io/version-3/customcolor_logo_transparent_background-2.svg)
+![MasterHead](https://www.bacancytechnology.com/blog/wp-content/uploads/2020/06/banner-3.jpg)
 
 <h1 align="center">Hi 👋, I'm Mehmet Onur Kızıldaş</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
